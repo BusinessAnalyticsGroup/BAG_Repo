@@ -1,4 +1,5 @@
 DATA SAMPLE_DATA;
-X=1
+X=1;
 Y=1;
+Z=1;
 RUN;
